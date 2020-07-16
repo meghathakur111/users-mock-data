@@ -48,18 +48,6 @@
       "username":"user7@gmail.com",
       "password":"user7",
       "role":"user"
-   },
-   {
-      "id":9,
-      "username":"user8@gmail.com",
-      "password":"user8",
-      "role":"user"
-   },
-   {
-      "id":10,
-      "username":"user9@gmail.com",
-      "password":"user9",
-      "role":"user"
    }
 ]
 }
